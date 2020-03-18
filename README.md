@@ -1,5 +1,7 @@
 # YDler - YouTube Downloader
-The best, easy-to-use YouTube Downloader.
+**The best, easy-to-use YouTube Downloader.
+
+*This project is open-source.
 
 Link to YDler : http://ydler.c1.biz/
 
