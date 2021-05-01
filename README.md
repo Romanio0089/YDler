@@ -1,4 +1,4 @@
-# YDler - YouTube Downloader
+# YDler - YouTube Downloader [DISCONTINUED]
 **The best, easy-to-use YouTube Downloader.**
 
 *This project is open-source.*
